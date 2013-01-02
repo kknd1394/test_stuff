@@ -1,6 +1,5 @@
-#include <stdio.h>
+#include "test.h"
 int test(){
-
-	printf("test \n");
+	printf("test\n");
 }
 
